@@ -1,0 +1,26 @@
+VIEWS: de tipo modularizada en folders, es la primera entrada o presentacion de algun modulo u opcion.
+
+forms: de tipo modularizada en folders, son los UPDATES o DELETE BY EDOS.
+
+Jscript: de tipo files, solo archivos javascript
+
+plugins: de tipo modular by folders, todos aquellas herramientas que nos ayudan en el frontend ah mejorarlo.
+
+framework: solo contendra el maquetador del proyecto boots o UI.
+
+structure: de tipo files, en ella estaran particionado todos los links de estilos y javascript del proyecto al igual que la barra de menu, el body de la pagina y el begin de aceptacion al O.S .
+
+openclass: de tipo files, en ella solo estaran mis clases de php que ayudan en el backend processor
+
+sources: contendra los folders de la multimedia que utilizare.
+
+database: de tipo file, en ella estaran mis clases ala base de datos.
+
+processors: de tipo modular, en ella estaran las acciones hacia la base de datos y el procesamiento de la informacion lado server.
+
+paths: de tipo file, aca estaran los caminos hacia todas las carpetas.
+
+reportings: de tipo modular, en ella estaran los reporteadores PDF,excell,graficas,word.
+
+
+
